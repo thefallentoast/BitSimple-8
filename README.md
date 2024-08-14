@@ -1,7 +1,7 @@
-# 6502computer
-A 6502 computer I'm making/made
+# BitSimple-8
+The BitSimple-8 is a W65C02S-based computer inspired on the Commander X16 (or X16) by Commander Computers, LLC.\
+The name was suggested by @Toboter in the X16 discord so we went with it.
 
-# Important stuff
-This is not the final name. Issue some name ideas because I'm uncreative as a duck. (really)\
-I am using the VERA module for graphics which can be found [here](https://github.com/fvdhoef/vera-module/tree/rev4).\
-But I modified the PCB so that I remove the X16 logo since it's not mine.
+# Important information
+The VERA module is open-source available and designed by Frank Van de Hoef. The board follows rev.4's connection scheme.\
+The PCB is slightly modified to remove the X16 logo (since this isn't the X16).
